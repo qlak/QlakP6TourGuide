@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">QlakP6TourGuide</string>
+
+    <string name="top_spots_fragment">Best Spots</string>
+    <string name="food_fragment">Hungry?</string>
+    <string name="fun_fragment">Fun!</string>
+    <string name="history_fragment">History</string>
+
+    <string name="chinska_patelnia">Chińska Patelnia</string>
+    <string name="chinska_patelnia_address">76 Długa</string>
+    <string name="chinska_patelnia_info">Chińska Patelnia is a network of rather small dining outlets. The first premises were built in 2006. At the moment we run 8 outlets in Bydgoszcz. The success of our company is based on constant quality control of our products. We specialize in Chinese Cuisine. When we started, we had only one kind of meal, but now, after getting so much attention our menu got bigger.</string>
+    <string name="peppermint">Peppermint</string>
+    <string name="peppermint_address">62 Długa</string>
+    <string name="peppermint_info">We organize various types of parties. We strive to make important moments a wonderful and unforgettable experience. We offer the opportunity to organize your party according to your ideas, advice and assistance.</string>
+    <string name="rubaru">RuBaRu</string>
+    <string name="rubaru_address">10 Teofila Magdzińskiego</string>
+    <string name="rubaru_info">Authentic Indian Restaurant in the heart of Bydgoszcz serving traditional Indian Dishes specially prepared in tandoor oven by our north indian cooks. The food is prepared with the authentic Indian spices and special recipe know only to us. Other mouthwatering dishes are made of mutton ,chicken, fish and prawns. We are also serving whole range of Indian vegeterian cuisine.</string>
+    <string name="sphinx">Sphinx</string>
+    <string name="sphinx_address">18 Teofila Magdzińskiego</string>
+    <string name="sphinx_info">Sphinx restaurants serve Oriental and international cuisine. This is the first and largest chain of casual dining restaurants in Poland and one of the largest in Europe.</string>
+
+    <string name="break_the_brain">Break The Brain</string>
+    <string name="break_the_brain_address">27 Gdańska</string>
+    <string name="break_the_brain_info">It is about great fun and memorable experiences. Your task is to find a way out of a room by solving numerous riddles which are there to help you. Our secret rooms are full of hidden props and compartments, mysterious objects, keys, puzzles and codes. Use them! Open your eyes very wide and look around carefully. Anything and everything can be a clue or lead to the exit key. How to do it? Gather a team! Use your brain! Work as a team! You have 60 minutes. This is going to be an adventure of a lifetime!</string>
+    <string name="multikino">MultiKino</string>
+    <string name="multikino_address">48 Ferdynanda Focha</string>
+    <string name="multikino_info">Multikino is the first operator to launch a multi-screen cinema in Poland in 1998. Since then it has set the highest standards in the construction and operation of theaters. The facility consists of nine modern rooms, including a 777-room suite with largest digital projection screen in Europe (nearly 300 m2). </string>
+    <string name="family_park">Family Park</string>
+    <string name="family_park_address">246 Fordońska</string>
+    <string name="family_park_info">Family Park Play Centre was created for all those who want to spend time with their closest ones in an interesting way. Our aim was to allow all family members at all ages to relax in an active way. Our site has an area of over 4000 m2. It includes a playground for the youngest ones, who can discover the world under the watchful eye of our animators, while having a lot of fun at the same time. A climbing wall, battery operated cars and numerous other attractions for children allow them to learn new skills during various physical activities. We also have a bowling centre, which is perfect for family tournaments or a casual game with friends.</string>
+    <string name="myslecinek">Myślęcinek</string>
+    <string name="myslecinek_address">173, 174, 175 Gdańska</string>
+    <string name="myslecinek_info">Covering an area of over 800 hectares, Myślęcinek is the largest urban park in Poland, located only three kilometers from Bydgoszcz city center. This enclave of enchanted woodland featuring hills, gorges and creeks is frequently visited not only by the locals, but also by tourists who quickly fall in love with both the beauty of the natural landscapes and the rich cultural and entertainment opportunities offered by the park. If you are looking for a place where you can relax and take a break from the busy city life as well as spend some fun time doing competitive sports, Myślęcinek is the right place for you!</string>
+    <string name="parkbdg">PARK17</string>
+    <string name="parkbdg_address">17 Jana Karola Chodkiewicza</string>
+    <string name="parkbdg_info">PARK17 is a complex that is created for all residents of our city. At your disposal we offer a hall of 1000 m2 in which you will find attractions for children, adolescents and adults. What have we prepared? Besides the fantastic fun on the trampolines, you will be able to practice acrobatics by landing in a soft pool with sponges, gaining skills on a climbing wall, or playing with your friends on the dodgeball area.</string>
+
+    <string name="link_chinska_patelnia">https://goo.gl/maps/mBgtXEbG5t22</string>
+    <string name="link_peppermint">https://goo.gl/maps/QuZq46Y5Hj72</string>
+    <string name="link_rubaru">https://goo.gl/maps/ujWRZRCgkit</string>
+    <string name="link_sphinx">https://goo.gl/maps/JmWpNVV8Vqz</string>
+    <string name="link_break_the_brain">https://goo.gl/maps/9aDtdbJ5wLJ2</string>
+    <string name="link_multikino">https://goo.gl/maps/4oSchBRsU2E2</string>
+    <string name="link_family_park">https://goo.gl/maps/jPkpyftKHkM2</string>
+    <string name="link_myslecinek">https://goo.gl/maps/CqJRFeCqMJn</string>
+    <string name="link_parkbdg">https://goo.gl/maps/oAj7ruF1x3K2</string>
+
+    <string name="story1">During the early Slavic times a fishing settlement called Bydgozcya ("Bydgostia" in Latin), became a stronghold on the Vistula trade routes. In the 13th century it was the site of a castellany, mentioned in 1238. The city was occupied by the Teutonic Knights in 1331, and incorporated into the monastic state of the Teutonic Knights. The city was relinquished by the Knights in 1343 with their signing of the Treaty of Kalisz along with Dobrzyń and the remainder of Kuyavia. King Casimir III of Poland, granted Bydgoszcz city rights (charter) on 19 April 1346.[4] The city increasingly saw an influx of Jews after that date. In 1555, however, due to pressure by the clergy, the Jews were expelled and came back only with the annexion to Prussia in 1772. In the 15th and 16th centuries Bydgoszcz was a significant site for wheat trading.</string>
+    <string name="story2">During 1629, near the end of the Polish-Swedish War of 1626–29, the town was conquered by Swedish troops led by king Gustav II Adolph of Sweden personally. During the events of war the town suffered demolitions.[5] The town was conquered a second and third time by Sweden in 1656 and 1657 during the Second Northern War. On the latter occasion the castle was destroyed completely and has since then remained a ruin. After the war only 94 houses were inhabited, 103 stood empty and 35 were burned down. Also the suburbs had been damaged considerably.</string>
+    <string name="story3">The Treaty of Bromberg, agreed in 1657 by King John II Casimir Vasa of Poland and Elector Frederick William II of Brandenburg-Prussia, created a military alliance between Poland and Prussia while marking the withdrawal of Prussia from its alliance with Sweden.</string>
+    <string name="story4">In 1772, in the First Partition of Poland, Bydgoszcz was acquired by the Kingdom of Prussia, renamed Bromberg, and incorporated into the Netze District in West Prussia. At the time, the town was seriously depressed and semi-derelict. Under Frederick the Great the town revived, notably with construction of a canal from Bromberg to Nakel (Nakło) which connected the north-flowing Vistula River via the Brda to the west-flowing Netze, which in turn flowed to the Oder via the Warta.</string>
+    <string name="story5">In 1807, after the defeat of Prussia by Napoleon and the signing of the Treaty of Tilsit, Bromberg became part of his short-lived Duchy of Warsaw. With Napoleon defeat at the Battle of Nations in 1815, the town was returned to Prussia as part of the autonomous Grand Duchy of Posen (Poznań). In 1871 the Province of Posen, along with the rest of the Kingdom of Prussia, became part of the newly formed German Empire.</string>
+    <string name="story6">In the mid-19th century, the arrival of the Prussian Eastern Railway (Preußische Ostbahn) contributed greatly to the development of Bromberg. The first stretch, from Schneidemühl (Piła) to Bromberg, was opened in July 1851. The city grew from 12,900 in 1852 to 57,700 in 1910 – of whom 84 percent were Germans and 16 percent Poles.</string>
+    <string name="story7">After World War I, despite Bromberg\'s German majority, it was assigned to the recreated Polish state by the 1919 Versailles Treaty. Now officially Bydgoszcz again, the city belonged to the Poznań Voivodeship. The local populace was required to acquire Polish citizenship or leave the country. This led to a drastic decline in German residents, whose number within the town decreased to 11,016 in 1926. In 1938, it was made part of the Polish Pomeranian Voivodeship.</string>
+    <string name="story8">During World War II, Bydgoszcz was occupied by Nazi Germany and annexed to the Reichsgau Danzig-West Prussia as the seat of the district or county (kreis) of Bromberg. On 3 September 1939, shortly after the war started, the Bloody Sunday incident occurred; while both German and Polish civilians died during the fighting, Nazi propaganda used the German deaths and named the incident Bloody Sunday as a pretext for lethal reprisals against the Polish population following occupation of the city by German troops on 9 September.</string>
+    <string name="story9">The history of Jews in Bydgoszcz ended up with the catastrophe of World War II, the German invasion of Poland, and the Holocaust. The city\'s Jewish citizens were sent to Nazi death camps or murdered in the town itself. Bromberg was the site of Bromberg-Ost, a women\'s subcamp of Stutthof concentration camp near Danzig (Gdańsk). A deportation camp was situated in Smukała village, now part of Bydgoszcz. An estimated 3,700 citizens of Bydgoszcz – Jews and non-Jews – died during the Nazi occupation.</string>
+    <string name="story10">In 1945 Bydgoszcz was occupied by the advancing Red Army. In the same year it was made the seat of the Pomeranian Voivodship, the northern part of which was soon separated to form Gdańsk Voivodship. The remaining part of the Pomeranian Voivodship was renamed Bydgoszcz Voivodeship in 1950. In March 1981, Solidarity\'s activists were violently suppressed in Bydgoszcz.</string>
+
+    <string name="hello_blank_fragment">Hello BLANK</string>
+
+</resources>
